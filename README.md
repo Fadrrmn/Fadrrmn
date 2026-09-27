@@ -13,8 +13,8 @@
 ---
 
 ### 🙋‍♂️ Tentang Saya
-- 🎓 Saya sedang belajar **Teknik Komputer**
-- 🌱 Saat ini sedang mempelajari `HTML, CSS, Python`
+- 🎓 Saya Adalah Mahasiswa **Teknologi Rekayasa Komputer**
+- 🌱 Saat ini sedang mempelajari `HTML, CSS, Python, Java, Javascript, php, Nodejs`
 - 🤝 Terbuka untuk kolaborasi di project **web development**
 - 📫 Cara menghubungi saya: **fadlurrahmannaufal20@gmail.com**
 - ⚡ Fun fact: Welcomease 😄
